@@ -1,0 +1,859 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company.  All Rights Reserved.",
+    "num_results": 190,
+    "results": [
+        {
+            "title": "11/22/63",
+            "description": "An English teacher travels back to 1958 by way of a time portal in a Maine diner. His assignment: Stop Lee Harvey Oswald.",
+            "contributor": "by Stephen King",
+            "author": "Stephen King",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Pocket Books",
+            "isbns": [
+                {
+                    "isbn10": "1451627289",
+                    "isbn13": "9781451627282"
+                },
+                {
+                    "isbn10": "1451627297",
+                    "isbn13": "9781451627299"
+                },
+                {
+                    "isbn10": "030795143X",
+                    "isbn13": "9780307951434"
+                },
+                {
+                    "isbn10": "1594135592",
+                    "isbn13": "9781594135590"
+                },
+                {
+                    "isbn10": "1501120603",
+                    "isbn13": "9781501120602"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2011/10/31/books/stephen-kings-11-23-63-review.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2011/11/13/books/review/11-22-63-by-stephen-king-book-review.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A BAXTER FAMILY CHRISTMAS",
+            "description": "A story of love and redemption featuring the Baxter family.",
+            "contributor": "by Karen Kingsbury",
+            "author": "Karen Kingsbury",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Howard Books",
+            "isbns": [
+                {
+                    "isbn10": "1451687567",
+                    "isbn13": "9781451687569"
+                },
+                {
+                    "isbn10": "1451687583",
+                    "isbn13": "9781451687583"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A BRIEF HISTORY OF TIME",
+            "description": "The British cosmologist reviews efforts to create a unified theory of the universe; first published in 1988.",
+            "contributor": "by Stephen Hawking",
+            "author": "Stephen Hawking",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Bantam",
+            "isbns": [
+                {
+                    "isbn10": "0553380168",
+                    "isbn13": "9780553380163"
+                },
+                {
+                    "isbn10": "055305340X",
+                    "isbn13": "9780553053401"
+                },
+                {
+                    "isbn10": "0553109537",
+                    "isbn13": "9780553109535"
+                },
+                {
+                    "isbn10": "0593015185",
+                    "isbn13": "9780593015186"
+                },
+                {
+                    "isbn10": "0553346148",
+                    "isbn13": "9780553346145"
+                },
+                {
+                    "isbn10": "1574534467",
+                    "isbn13": "9781574534467"
+                },
+                {
+                    "isbn10": "0613074041",
+                    "isbn13": "9780613074049"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/1988/05/04/books/books-of-the-times-making-the-big-bang-almost-understandable.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A BRUSH OF WINGS",
+            "description": "A baseball player intercedes when an ailing orphanage worker in Uganda needs a transplant.",
+            "contributor": "by Karen Kingsbury",
+            "author": "Karen Kingsbury",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Howard",
+            "isbns": [
+                {
+                    "isbn10": "1451687532",
+                    "isbn13": "9781451687538"
+                },
+                {
+                    "isbn10": "1451687540",
+                    "isbn13": "9781451687545"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A DISTANT SHORE",
+            "description": "A secret agent with the F.B.I. and a young woman betrothed by her father to a drug lord pretend to be in love for a mission.",
+            "contributor": "by Karen Kingsbury",
+            "author": "Karen Kingsbury",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Atria",
+            "isbns": [
+                {
+                    "isbn10": "198210435X",
+                    "isbn13": "9781982104351"
+                },
+                {
+                    "isbn10": "1982104376",
+                    "isbn13": "9781982104375"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A FACE IN THE CROWD",
+            "description": "An elderly widower watches baseballt to distract himself from his wife's death, but figures from his past appear every night in the seat behind home plate; a Kindle single.",
+            "contributor": "by Stephen King and Stewart O'Nan",
+            "author": "Stephen King and Stewart O'Nan",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Scribner",
+            "isbns": [
+                {
+                    "isbn10": "1476713340",
+                    "isbn13": "9781476713342"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A Girl From Zanzibar",
+            "description": null,
+            "contributor": null,
+            "author": "Roger King",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "1885586604",
+                    "isbn13": "9781885586605"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2002/11/24/books/benji-and-marcella-get-paid.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "A GOOD MARRIAGE",
+            "description": "An unsuspecting accountant's wife makes a disturbing discovery; first published in 2010, now a movie.",
+            "contributor": "by Stephen King",
+            "author": "Stephen King",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Scribner",
+            "isbns": [
+                {
+                    "isbn10": "150110442X",
+                    "isbn13": "9781501104428"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A NATURAL WOMAN",
+            "description": "A memoir by the songwriter, singer and activist, the subject of a newly opened Broadway musical.",
+            "contributor": "by Carole King",
+            "author": "Carole King",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Grand Central",
+            "isbns": [
+                {
+                    "isbn10": "1455512613",
+                    "isbn13": "9781455512614"
+                },
+                {
+                    "isbn10": "1455515477",
+                    "isbn13": "9781455515479"
+                },
+                {
+                    "isbn10": "1455512591",
+                    "isbn13": "9781455512591"
+                },
+                {
+                    "isbn10": "1455513652",
+                    "isbn13": "9781455513659"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A THOUSAND TOMORROWS",
+            "description": "Two troubled young rodeo performers are unable to avoid falling in love, no matter what consequences their actions might bring.",
+            "contributor": "by Karen Kingsbury",
+            "author": "Karen Kingsbury",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Center Street",
+            "isbns": [
+                {
+                    "isbn10": "1599951193",
+                    "isbn13": "9781599951195"
+                },
+                {
+                    "isbn10": "1599950022",
+                    "isbn13": "9781599950020"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "ABSOLUTE DEATH",
+            "description": "Death, the upbeat sister of Dream, is one of the best characters that emerged from the critically-acclaimed \"Sandman\" series. This over-sized collected edition contains two mini-series devoted to this very different incarnation of the Grim Reaper.",
+            "contributor": "by Neil Gaiman, Chris Bachalo and Mark Buckingham",
+            "author": "Neil Gaiman, Chris Bachalo and Mark Buckingham",
+            "contributor_note": "",
+            "price": "99.99",
+            "age_group": "",
+            "publisher": "Vertigo",
+            "isbns": [],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "ALL IN",
+            "description": "The former No. 1-ranked tennis player details her career and activism.",
+            "contributor": "by Billie Jean King with Johnette Howard and Maryanne Vollers",
+            "author": "Billie Jean King with Johnette Howard and Maryanne Vollers",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Knopf",
+            "isbns": [
+                {
+                    "isbn10": "1101947330",
+                    "isbn13": "9781101947333"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "AMERICAN VAMPIRE, VOL. 1",
+            "description": "This series, about a new species of vampire that does not have the traditional weakness, shifts to Las Vegas in the 1930's and a number of corpses that have turned up drained of blood.",
+            "contributor": "by Scott Snyder and Stephen King",
+            "author": "Scott Snyder and Stephen King",
+            "contributor_note": "",
+            "price": "19.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401229743",
+                    "isbn13": "9781401229740"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "AMERICAN VAMPIRE, VOL. 1",
+            "description": "What do the roaring 20’s and the wild west have in common? Vampires.",
+            "contributor": "by Scott Snyder, Stephen King and Rafael Albuquereque",
+            "author": "Scott Snyder, Stephen King and Rafael Albuquereque",
+            "contributor_note": "",
+            "price": "24.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401228305",
+                    "isbn13": "9781401228309"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "ANGELS WALKING",
+            "description": "",
+            "contributor": "by Karen Kingsbury",
+            "author": "Karen Kingsbury",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Howard",
+            "isbns": [
+                {
+                    "isbn10": "1451687478",
+                    "isbn13": "9781451687477"
+                },
+                {
+                    "isbn10": "1451687494",
+                    "isbn13": "9781451687491"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "ANIMAL, VEGETABLE, MIRACLE",
+            "description": "The novelist and her family spend a year eating homegrown or local food. First published in 2007.",
+            "contributor": "by Barbara Kingsolver and Camille Kingsolver",
+            "author": "Barbara Kingsolver and Camille Kingsolver",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "HarperCollins",
+            "isbns": [
+                {
+                    "isbn10": "0060852569",
+                    "isbn13": "9780060852566"
+                },
+                {
+                    "isbn10": "0061795836",
+                    "isbn13": "9780061795831"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2007/05/11/books/11book.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2007/05/27/books/review/Kummer-t.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Bag of Bones",
+            "description": null,
+            "contributor": null,
+            "author": "Stephen King",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "1451678622",
+                    "isbn13": "9781451678628"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1998/09/27/books/familiar-terrors.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "BE YOUR OWN SHAMAN",
+            "description": "",
+            "contributor": "by Deborah King",
+            "author": "Deborah King",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Hay House",
+            "isbns": [
+                {
+                    "isbn10": "1401930786",
+                    "isbn13": "9781401930783"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "BILLY SUMMERS",
+            "description": "A killer for hire who only takes out bad guys seeks redemption as he does one final job.",
+            "contributor": "by Stephen King",
+            "author": "Stephen King",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Pocket",
+            "isbns": [
+                {
+                    "isbn10": "1982173610",
+                    "isbn13": "9781982173616"
+                },
+                {
+                    "isbn10": "1982173637",
+                    "isbn13": "9781982173630"
+                },
+                {
+                    "isbn10": "179712269X",
+                    "isbn13": "9781797122694"
+                },
+                {
+                    "isbn10": "1668010127",
+                    "isbn13": "9781668010129"
+                },
+                {
+                    "isbn10": "1982173629",
+                    "isbn13": "9781982173623"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1668010127",
+                    "primary_isbn13": "9781668010129",
+                    "rank": 4,
+                    "list_name": "Mass Market Monthly",
+                    "display_name": "Mass Market",
+                    "published_date": "2023-09-17",
+                    "bestsellers_date": "2023-09-02",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668010127",
+                    "primary_isbn13": "9781668010129",
+                    "rank": 2,
+                    "list_name": "Mass Market Monthly",
+                    "display_name": "Mass Market",
+                    "published_date": "2023-08-13",
+                    "bestsellers_date": "2023-07-29",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1982173610",
+                    "primary_isbn13": "9781982173616",
+                    "rank": 13,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2022-01-09",
+                    "bestsellers_date": "2021-12-25",
+                    "weeks_on_list": 10,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1982173610",
+                    "primary_isbn13": "9781982173616",
+                    "rank": 10,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2022-01-09",
+                    "bestsellers_date": "2021-12-25",
+                    "weeks_on_list": 20,
+                    "rank_last_week": 11,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1982173610",
+                    "primary_isbn13": "9781982173616",
+                    "rank": 11,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2022-01-02",
+                    "bestsellers_date": "2021-12-18",
+                    "weeks_on_list": 19,
+                    "rank_last_week": 14,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1982173610",
+                    "primary_isbn13": "9781982173616",
+                    "rank": 14,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2021-12-26",
+                    "bestsellers_date": "2021-12-11",
+                    "weeks_on_list": 18,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1982173610",
+                    "primary_isbn13": "9781982173616",
+                    "rank": 15,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2021-12-12",
+                    "bestsellers_date": "2021-11-27",
+                    "weeks_on_list": 17,
+                    "rank_last_week": 12,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1982173610",
+                    "primary_isbn13": "9781982173616",
+                    "rank": 12,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2021-12-05",
+                    "bestsellers_date": "2021-11-20",
+                    "weeks_on_list": 16,
+                    "rank_last_week": 10,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1982173610",
+                    "primary_isbn13": "9781982173616",
+                    "rank": 10,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2021-11-28",
+                    "bestsellers_date": "2021-11-13",
+                    "weeks_on_list": 15,
+                    "rank_last_week": 13,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1982173610",
+                    "primary_isbn13": "9781982173616",
+                    "rank": 13,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2021-11-21",
+                    "bestsellers_date": "2021-11-06",
+                    "weeks_on_list": 14,
+                    "rank_last_week": 9,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1982173610",
+                    "primary_isbn13": "9781982173616",
+                    "rank": 9,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2021-11-14",
+                    "bestsellers_date": "2021-10-30",
+                    "weeks_on_list": 13,
+                    "rank_last_week": 11,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781797122700",
+                    "rank": 13,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2021-11-14",
+                    "bestsellers_date": "2021-10-30",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1982173610",
+                    "primary_isbn13": "9781982173616",
+                    "rank": 11,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2021-11-07",
+                    "bestsellers_date": "2021-10-23",
+                    "weeks_on_list": 12,
+                    "rank_last_week": 11,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1982173610",
+                    "primary_isbn13": "9781982173616",
+                    "rank": 11,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2021-10-31",
+                    "bestsellers_date": "2021-10-16",
+                    "weeks_on_list": 11,
+                    "rank_last_week": 9,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1982173610",
+                    "primary_isbn13": "9781982173616",
+                    "rank": 9,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2021-10-24",
+                    "bestsellers_date": "2021-10-09",
+                    "weeks_on_list": 10,
+                    "rank_last_week": 9,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781797122700",
+                    "rank": 5,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2021-10-17",
+                    "bestsellers_date": "2021-10-02",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1982173610",
+                    "primary_isbn13": "9781982173616",
+                    "rank": 9,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2021-10-17",
+                    "bestsellers_date": "2021-10-02",
+                    "weeks_on_list": 9,
+                    "rank_last_week": 5,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1982173610",
+                    "primary_isbn13": "9781982173616",
+                    "rank": 14,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2021-10-17",
+                    "bestsellers_date": "2021-10-02",
+                    "weeks_on_list": 9,
+                    "rank_last_week": 7,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1982173610",
+                    "primary_isbn13": "9781982173616",
+                    "rank": 7,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2021-10-10",
+                    "bestsellers_date": "2021-09-25",
+                    "weeks_on_list": 8,
+                    "rank_last_week": 8,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1982173610",
+                    "primary_isbn13": "9781982173616",
+                    "rank": 5,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2021-10-10",
+                    "bestsellers_date": "2021-09-25",
+                    "weeks_on_list": 8,
+                    "rank_last_week": 5,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "BLOCKADE BILLY",
+            "description": "A tale about the dark side of baseball, circa 1957.",
+            "contributor": "by Stephen King",
+            "author": "Stephen King",
+            "contributor_note": "",
+            "price": "14.99",
+            "age_group": "",
+            "publisher": "Simon & Schuster",
+            "isbns": [
+                {
+                    "isbn10": "1451608217",
+                    "isbn13": "9781451608212"
+                },
+                {
+                    "isbn10": "1587672286",
+                    "isbn13": "9781587672286"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        }
+    ]
+}
